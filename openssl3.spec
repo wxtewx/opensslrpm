@@ -5,7 +5,7 @@ Summary:        OpenSSL 3.0.13 定制构建版（兼容系统默认版本）
 
 License:        Apache-2.0
 URL:            https://www.openssl.org
-Source0:        https://gh-proxy.com/https://github.com/openssl/openssl/archive/refs/tags/openssl-%{version}.tar.gz
+Source0:        https://github.com/openssl/openssl/archive/refs/tags/openssl-%{version}.tar.gz
 
 # 增强的构建依赖
 BuildRequires:  make
